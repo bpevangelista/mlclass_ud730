@@ -1,0 +1,2 @@
+curl http://yaroslavvb.com/upload/notMNIST/notMNIST_large.tar.gz --output notMNIST_large.tar.gz
+tar -xzf notMNIST_large.tar.gz
